@@ -1,5 +1,6 @@
 # Flappy-Bird
 A replica of the Flappy Bird game made using Javascript. The game keeps track of the high score and includes sound effects.
+Click to visit and play! : https://amazingk2k3.github.io/Flappy-Bird/
 
 ## Screenshots
 
